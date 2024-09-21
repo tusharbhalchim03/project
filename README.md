@@ -1,2 +1,2 @@
 # project
-Author - "Tushar"
+Author - "Tushar bhalachim"
